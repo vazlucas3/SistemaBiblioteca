@@ -1,0 +1,15 @@
+# Configurações locais do IntelliJ
+.idea/
+*.iml
+
+# Arquivos compilados do Java
+*.class
+out/
+target/
+
+# Logs
+*.log
+
+# Configurações locais do sistema operacional
+.DS_Store
+Thumbs.db
